@@ -6,7 +6,7 @@ it shows basic functionality of:
  - store key-pair values
  - store encrypted key-pair values
  - messages
- - contacts
+ - contacts 
  - storing files
  - sending files
 

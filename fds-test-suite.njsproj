@@ -31,7 +31,6 @@
     <Content Include="src\serviceWorker.js" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="fds-test-suite" />
     <Folder Include="public" />
     <Folder Include="src" />
   </ItemGroup>
