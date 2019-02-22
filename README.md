@@ -1,4 +1,17 @@
+## FDS.js testing suite
+Very raw and barebone sample of one of potential ways how to use FDS.js. 
+it shows basic functionality 
+ - create account
+ - store key-pair values
+ - store encrypted key-pair values
+ - messages
+ - contacts
+ - storing files
+ - sending files
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
